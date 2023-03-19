@@ -1,2 +1,2 @@
 # SiteSW
-Site com imagens de SWJFO
+Site com função de passar imagens de SWJFO

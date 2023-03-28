@@ -1,2 +1,2 @@
 # SiteSW
-Site com função de passar imagens de SWJFO
+Site que mostra a descrição do jogo e que passa as imagens automaticamente.

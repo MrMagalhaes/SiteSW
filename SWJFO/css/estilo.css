@@ -1,0 +1,27 @@
+body {
+	background-color: rgba(168, 145, 145, 0.418);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#imagem {
+    width: 350px;
+    max-width: 350px;
+    height: 200px;
+    max-height: 350px;
+    position: relative;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagem img{
+    opacity: 0;
+    width: 400px;
+    height: 400px;
+    transition: opacity 800ms;
+}
+
